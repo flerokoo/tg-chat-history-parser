@@ -1,0 +1,13 @@
+{
+  "name": "tg-chat-history-parser",
+  "version": "1.0.0",
+  "description": "Telegram chat history parser",
+  "main": "index.js",
+  "keywords": ["telegram", "parsing", "chat", "history", "tg", "parser"],
+  "author": "Emile Shodiev <emile.shodiev@yandex.ru> (http://shodiev.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "yargs": "^15.0.2"
+  }
+}
