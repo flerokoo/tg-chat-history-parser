@@ -15,7 +15,7 @@ Optionally provide `--cleanupNames` argument to get rid of dates and other unwan
 
 
 
-## Example of what can you do with parsed data
+## Example of what you can do with parsed data
 ### _Messages distribution over time_  
 ![](pics/1.png)
 
