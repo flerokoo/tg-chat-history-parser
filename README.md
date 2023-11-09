@@ -1,6 +1,9 @@
 
 # Telegram Chat History Parser
 
+> [!WARNING] 
+> It is now possible to export JSON history files. This utility is no longer relevant.
+
 Does what the name says. 
 
 ## Usage
